@@ -3,3 +3,4 @@ ggmap
 googleVis
 lubridate
 leaflet
+psych
